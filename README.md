@@ -6,4 +6,5 @@ Python was used for data cleaning, regression, and machine learning models like 
 Charts and visualizations were used to present insights on key salary determinants.
 
 Google Colab Notebook Link - https://colab.research.google.com/drive/1qtnUH8isiuqd6BUM7MpzJcz7OGIuDD02?usp=sharing 
+
 Project PPT - https://drive.google.com/file/d/1gchABmi3if0Joaevf1w01-ngX7s6MpkC/view?usp=sharing
